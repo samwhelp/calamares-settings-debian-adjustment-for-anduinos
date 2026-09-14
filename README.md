@@ -83,7 +83,7 @@ sudo apt-get install calamares calamares-settings-debian
 ```
 
 
-* Install Package: [git](https://packages.ubuntu.com/resolute/calamares)
+* Install Package: [git](https://packages.ubuntu.com/resolute/git)
 
 ``` sh
 sudo apt-get install git
