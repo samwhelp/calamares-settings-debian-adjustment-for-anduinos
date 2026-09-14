@@ -13,15 +13,6 @@ sudo apt-get update
 
 
 ##
-## ## noninteractive for upgrade Package: console-setup
-##
-
-export DEBIAN_FRONTEND=noninteractive
-
-
-
-
-##
 ## ## Install Packages / calamares
 ##
 
@@ -34,7 +25,7 @@ sudo apt-get -y install calamares calamares-settings-debian
 ## ## Install Packages / git
 ##
 
-sudo apt-get -y git
+sudo apt-get -y install git
 
 
 
