@@ -20,6 +20,9 @@
 * [For Version](#for-version)
 * [Howto](#howto)
 * [Log File](#log-file)
+* [Explore](#explore)
+* [Use Case](#use-case)
+* [Link](#link)
 
 
 
@@ -192,3 +195,31 @@ show
 /usr/share/pixmaps
 /usr/share/pixmaps/install-debian.png
 ```
+
+
+
+
+## Use Case
+
+| Case |
+| ---- |
+| anduinos-live-create-respin-gnome-shell-with-calamares / template / [installer](https://github.com/samwhelp/anduinos-live-create-respin-gnome-shell-with-calamares/tree/main/template/installer) |
+| anduinos-live-custom-respin-gnome-shell-with-calamares / template / [installer](https://github.com/samwhelp/anduinos-live-custom-respin-gnome-shell-with-calamares/tree/main/template/installer) |
+
+
+
+
+## Link
+
+| Link | GitHub |
+| ---- | ------ |
+| [calamares-settings-debian-adjustment-for-ubuntu](https://samwhelp.github.io/calamares-settings-debian-adjustment-for-ubuntu/) | [GitHub](https://github.com/samwhelp/calamares-settings-debian-adjustment-for-ubuntu) |
+| [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
+| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
