@@ -12,7 +12,8 @@
 ## Subject
 
 * [Discussions](#discussions)
-* [Brance](#branch)
+* [Branch](#branch)
+* [Use Case](#use-case)
 * [Link](#link)
 
 
@@ -28,6 +29,16 @@
 | Branch |
 | ------ |
 | [anduinos-2.0.2](https://github.com/samwhelp/calamares-settings-debian-adjustment-for-anduinos/tree/anduinos-2.0.2) |
+
+
+
+
+## Use Case
+
+| Case |
+| ---- |
+| anduinos-live-create-respin-gnome-shell-with-calamares / template / [installer](https://github.com/samwhelp/anduinos-live-create-respin-gnome-shell-with-calamares/tree/main/template/installer) |
+| anduinos-live-custom-respin-gnome-shell-with-calamares / template / [installer](https://github.com/samwhelp/anduinos-live-custom-respin-gnome-shell-with-calamares/tree/main/template/installer) |
 
 
 
