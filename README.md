@@ -55,7 +55,7 @@
 
 | Settings |
 | -------- |
-| [my settings](./asset/overlay) |
+| [my settings](asset/overlay) |
 
 
 
