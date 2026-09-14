@@ -18,6 +18,8 @@
 
 * [Discussions](#discussions)
 * [For Version](#for-version)
+* [Packages](#packages)
+* [Settings](#settings)
 * [Howto](#howto)
 * [Log File](#log-file)
 * [Explore](#explore)
@@ -35,6 +37,25 @@
 ## For Version
 
 * AnduinOS 2.0.2 (Ubuntu 26.04)
+
+
+
+
+## Packages
+
+| Packages |
+| -------- |
+| [calamares](https://packages.ubuntu.com/resolute/calamares) |
+| [calamares-settings-debian](https://packages.ubuntu.com/resolute/calamares-settings-debian) |
+
+
+
+
+## Settings
+
+| Settings |
+| -------- |
+| [my settings](./asset/overlay) |
 
 
 
@@ -83,7 +104,7 @@ cd calamares-settings
 ```
 
 
-* Using [my settings](asset/overlay) onto the system
+* Using [my settings](asset/overlay) onto the system to overwrite calamares-settings-debian
 
 ``` sh
 sudo cp -rfT ./asset/overlay /
