@@ -139,7 +139,7 @@ less ./calamares-log.txt
 
 ## Explore
 
-run to show [File list](/https://packages.ubuntu.com/resolute/all/calamares-settings-debian/filelist) of Package: [calamares-settings-debian](https://packages.ubuntu.com/resolute/calamares-settings-debian)
+run to show [File list](https://packages.ubuntu.com/resolute/all/calamares-settings-debian/filelist) of Package: [calamares-settings-debian](https://packages.ubuntu.com/resolute/calamares-settings-debian)
 
 ``` sh
 dpkg -L calamares-settings-debian
