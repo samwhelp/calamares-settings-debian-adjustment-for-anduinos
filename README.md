@@ -26,6 +26,9 @@
 
 ## Discussions
 
+* [AnduinOS 2.0.2 External USB Drive Not Detected by Installer in VirtualBox](https://github.com/Anduin2017/AnduinOS/discussions/439#discussioncomment-18433170)
+* [There is no option for an installation with a separate /home partition.](https://github.com/AiursoftWeb/AnduinOS-2/issues/15#issuecomment-5663378879)
+
 
 
 
