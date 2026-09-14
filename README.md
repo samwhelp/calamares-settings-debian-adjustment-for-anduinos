@@ -90,7 +90,7 @@ sudo apt-get install git
 ```
 
 
-* Download [calamares-settings-debian-adjustment-for-ubuntu](https://github.com/samwhelp/calamares-settings-debian-adjustment-for-anduinos/tree/anduinos-2.0.2)
+* Download Project: [calamares-settings-debian-adjustment-for-anduinos](https://github.com/samwhelp/calamares-settings-debian-adjustment-for-anduinos/tree/anduinos-2.0.2)
 
 ``` sh
 git clone -b anduinos-2.0.2 https://github.com/samwhelp/calamares-settings-debian-adjustment-for-anduinos.git calamares-settings
