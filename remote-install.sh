@@ -13,6 +13,15 @@ sudo apt-get update
 
 
 ##
+## ## noninteractive for upgrade Package: console-setup
+##
+
+export DEBIAN_FRONTEND=noninteractive
+
+
+
+
+##
 ## ## Install Packages / calamares
 ##
 
